@@ -12,5 +12,6 @@ package javase.oop.users;
 public class Lesson06_Mostafa {
     public static void main(String[] args) {
         System.out.println("Lesson06 Mostafa test");
+	System.out.println("Modify Lesson06 Mostafa test");
     }
 }
